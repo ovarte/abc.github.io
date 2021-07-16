@@ -1,0 +1,9 @@
+.theme-default-content.lock .content__default>:nth-child(n+33){
+    display: unset!important;
+}
+.readMore-wrapper{
+    display: none;
+}
+div[class*=language-] pre, div[class*=language-] pre[class*=language-]{
+    background-color: #2d2d2d!important;
+}
